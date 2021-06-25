@@ -1,0 +1,42 @@
+@media (max-width: 1000px){
+   .container{
+      max-width: 950px;
+   }
+}
+@media (max-width: 992px){
+   .container{
+      max-width: 942px;
+   }
+}   
+@media (max-width: 767px){
+   .container{
+      max-width: 717px;
+   }  
+   footer{
+      height: 100px;
+   }
+  .bottom_text p{
+   font-size: 9px;
+}
+.down .row {
+   padding-top: 32px;
+}
+}
+@media (max-width: 500px){
+   .container{
+      max-width: 500px;
+   }
+   footer{
+      height: 90px;
+   }
+   .bottom_text{
+      width: 50%;
+   }
+   .icon{
+      width: 50%;
+   }
+   .down .row {
+      padding-top: 32px;
+  }
+}   
+

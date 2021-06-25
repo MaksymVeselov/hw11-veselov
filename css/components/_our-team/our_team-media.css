@@ -1,0 +1,78 @@
+@media (max-width: 1000px){
+   .container{
+      max-width: 950px;
+   }
+   .top_block{
+      padding: 40px 0;
+   }
+   .team_info h3{
+      padding-bottom: 4px;
+   }
+   .team_info p{
+font-size: 15px;
+   }
+   .third{
+      padding: 1px 0;
+   }
+}
+@media (max-width: 992px){
+.container{
+   max-width: 942px;
+}
+}
+@media (max-width: 767px){
+   .container{
+      max-width: 717px;
+   }
+   .top_block{
+      text-align: center;
+      padding: 30px 0;
+   }
+   .second_redline{
+      display: inline-block;
+white-space: normal;
+vertical-align: middle;
+margin-top: 20px;
+   }
+   .team_info p{
+      font-size: 11px;
+      line-height: 19px;
+   }
+   .team_foto{
+      padding-top: 12px;
+   }
+   }
+   @media (max-width: 500px){
+      .container{
+         max-width: 450px;
+      }
+      .top_block h2{
+         font-size: 36px;
+      }
+      .top_block p{
+         font-size: 14px;
+         line-height: 22px;
+      }
+      .second_redline{
+         display: inline-block;
+   white-space: normal;
+   vertical-align: middle;
+   margin-top: 10px;
+}
+      .baner_block{
+         width: 100%;
+      }
+      .content_block{
+         width: 100%;
+         padding-left: 0;
+         padding-top: 20px;
+      }
+      .third li a{
+         font-size: 16px;
+      }
+      .content_block .foto{
+         width: 50%;
+         padding: 10px;
+      }
+      
+   }
